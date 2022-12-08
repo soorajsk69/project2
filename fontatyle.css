@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=swap');
+div{
+    background-color: black;
+    padding: 30px;
+    width: 50%;
+    border: 3px rebeccapurple solid;
+}
+p{
+    color: rgb(40, 119, 187);
+    font-size: xx-large;
+    font-family:font-family:'Rubik Microbe', cursive;
+}
